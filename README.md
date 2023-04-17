@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Gohst505/Gohst505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... A&J ELectric Air, LLC
 - 🌱 I’m currently learning ... Full stack prograamming for JavaScript, React, HTML, CSS, SQL3, Middleware
 - 👯 I’m looking to collaborate on ...
