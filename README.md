@@ -1,9 +1,9 @@
 - 🔭 I’m currently working on ... A&J Electric Air, LLC
-- 🌱 I’m currently learning ... Full stack programming for JavaScript, React, HTML, CSS, SQL3, Middleware
+- 🌱 I’m currently learning ... Full stack programming for JavaScript, React, and auth0
 - 👯 I’m looking to collaborate on ... Building more interactive and simplified websites for customer basis
 - 🤔 I’m looking for help with ... Getting my foot in the door to shadow or become a junior level software engineer
-- 💬 Ask me about ... My expreiences freelancing or assisting running a small business
-- 📫 How to reach me: ... Phone: (757)-846-1260, Email: masoncape@gmail.com
+- 💬 Ask me about ... My expreiences freelancing, or assisting running a small business
+- 📫 How to reach me: ... Phone: (757)-846-1260, Email: masoncape@gmail.com, linkedIn: https://www.linkedin.com/in/mason-cape-79838518a/
 - 😄 Pronouns: ...(He/Him)
 - ⚡ Fun fact: ... I enjoy nature, physical activities, cars, T.V., video games, gaining experience in the fields I am interested in, setting a positive attitude in any social setting.
 
