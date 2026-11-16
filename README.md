@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on ... A&J Electric Air, LLC
+- 🔭 I’m currently working on ... TCA Prospect database
 - 🌱 I’m currently learning ... Full stack programming for JavaScript, React, and auth0
 - 👯 I’m looking to collaborate on ... Building more interactive and simplified websites for customer basis
 - 🤔 I’m looking for help with ... Getting my foot in the door to shadow or become a junior level software engineer
